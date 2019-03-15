@@ -1,0 +1,5 @@
+{% for result in page.object_list %}
+    <p>{{ result.object.title }}</p>
+{% empty %}
+    No results found.
+{% endfor %}
