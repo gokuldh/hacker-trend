@@ -27,3 +27,7 @@ run `pip install -r requirements.txt` to install required packages.
 run `python manage.py migrate` to create DB schema.
 run `python manage.py runserver` to start development server.
 ```
+## How to test
+
+run `python manage.py test <app_name>` to test apps.
+example: `python manage.py test trend`
