@@ -1,6 +1,6 @@
 certifi==2018.11.29
 chardet==3.0.4
-Django==2.1.5
+Django==2.2.24
 django-haystack==2.8.1
 djangorestframework==3.9.0
 elasticsearch==5.5.3
